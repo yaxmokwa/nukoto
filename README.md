@@ -1,2 +1,2 @@
 # nukoto
-Nukoto app to manage academic schedules.
+Nukoto is an app that manages academic schedules for both lecturers and students. 
